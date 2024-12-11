@@ -1,0 +1,1 @@
+This repository contains a Swift code example demonstrating the common error of forced unwrapping an optional that may be nil. The solution demonstrates safe unwrapping using optional binding and the nil-coalescing operator.
